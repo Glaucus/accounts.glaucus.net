@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 import Panel from '../../components/Panel';
 import Logo from '../../components/Logo';
-import Input from '../../components/input';
+import Input from '../../components/Input';
 import AutoSignIn from '../../components/AutoSignIn';
 
 class LoginPage extends React.Component {

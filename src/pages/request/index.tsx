@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react';
 import ViewPanel from '../../components/ViewPanel';
-import Input from '../../components/input';
+import Input from '../../components/Input';
 import { Link } from 'react-router-dom';
 
 class LoginPage extends React.Component {
