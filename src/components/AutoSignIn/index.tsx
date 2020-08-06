@@ -1,5 +1,5 @@
 import React, { ReactNode } from 'react';
-import LoadingSpin from '../loadingSpin';
+import LoadingSpin from '../LoadingSpin';
 
 type AutoSignInState = {
     autoSigningIn: boolean
