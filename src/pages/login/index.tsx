@@ -2,7 +2,7 @@ import React, { ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 
 import Panel from '../../components/Panel';
-import Logo from '../../components/logo';
+import Logo from '../../components/Logo';
 import Input from '../../components/input';
 import AutoSignIn from '../../components/AutoSignIn';
 
