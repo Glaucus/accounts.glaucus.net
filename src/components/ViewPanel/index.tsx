@@ -1,5 +1,5 @@
 import React, { ReactNode } from 'react';
-import Panel from '../../components/panel';
+import Panel from '../../components/Panel';
 import Logo from '../../components/logo';
 
 class ViewPanel extends React.Component {
